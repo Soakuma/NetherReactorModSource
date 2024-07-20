@@ -1,0 +1,8 @@
+{
+  "block.netherreactormod.nether_reactor_core_unactive": "Not the correct pattren!",
+  "block.netherreactormod.active_nether_reactor_core": "Active Nether Reactor Core",
+  "block.netherreactormod.nether_reactor_core": "Nether Reactor Core",
+  "block.netherreactormod.finished_nether_reactor_core": "Finished Nether Reactor Core",
+  "block.netherreactormod.glowing_obsidian": "Glowing Obsidian",
+  "block.netherreactormod.nether_reactor_core_active": "Active!"
+}

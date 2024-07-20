@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherreactormod:block/used_nether_reactor_core",
+    "up": "netherreactormod:block/used_nether_reactor_core",
+    "north": "netherreactormod:block/used_nether_reactor_core",
+    "east": "netherreactormod:block/used_nether_reactor_core",
+    "south": "netherreactormod:block/used_nether_reactor_core",
+    "west": "netherreactormod:block/used_nether_reactor_core",
+    "particle": "netherreactormod:block/used_nether_reactor_core"
+  },
+  "render_type": "solid"
+}

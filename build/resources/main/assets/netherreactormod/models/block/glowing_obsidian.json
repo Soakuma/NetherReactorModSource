@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherreactormod:block/glowing_obsidian",
+    "up": "netherreactormod:block/glowing_obsidian",
+    "north": "netherreactormod:block/glowing_obsidian",
+    "east": "netherreactormod:block/glowing_obsidian",
+    "south": "netherreactormod:block/glowing_obsidian",
+    "west": "netherreactormod:block/glowing_obsidian",
+    "particle": "netherreactormod:block/glowing_obsidian"
+  },
+  "render_type": "solid"
+}

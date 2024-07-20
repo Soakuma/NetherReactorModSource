@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "netherreactormod:finished_nether_reactor_core",
+    "netherreactormod:active_nether_reactor_core",
+    "netherreactormod:glowing_obsidian",
+    "netherreactormod:nether_reactor_core"
+  ]
+}

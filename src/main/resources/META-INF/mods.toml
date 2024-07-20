@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="netherreactormod"
+version="0.1"
+displayName="NetherReactorMod"
+credits="by pinne"
+authors="pinne"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.netherreactormod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

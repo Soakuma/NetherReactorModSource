@@ -1,0 +1,8 @@
+{
+  "block.netherreactormod.nether_reactor_core_unactive": "올바른 패턴이 아닙니다!",
+  "block.netherreactormod.active_nether_reactor_core": "활성화된 네더 반응기 코어",
+  "block.netherreactormod.nether_reactor_core": "네더 반응기 코어",
+  "block.netherreactormod.finished_nether_reactor_core": "종료된 네더 반응기 코어",
+  "block.netherreactormod.glowing_obsidian": "빛나는 흑요석",
+  "block.netherreactormod.nether_reactor_core_active": "활성화!"
+}
