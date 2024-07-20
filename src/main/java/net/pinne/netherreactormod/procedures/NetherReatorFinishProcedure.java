@@ -31,7 +31,7 @@ public class NetherReatorFinishProcedure {
 				if (world instanceof ServerLevel _level)
 					_level.getServer().getCommands().performPrefixedCommand(new CommandSourceStack(CommandSource.NULL, new Vec3(x, y, z), Vec2.ZERO, _level, 4, "", Component.literal(""), _level.getServer(), null).withSuppressedOutput(),
 							"/fill ~1 ~-1 ~1 ~-1 ~-1 ~-1 minecraft:obsidian");
-				if (world instanceof ServerLevel _level){
+				if (world instanceof ServerLevel _level) {
 					_level.setDayTime(18000);
 					NetherreactormodMod.queueServerWork(20, () -> {
             			damageStructure(_level, x, y, z);
